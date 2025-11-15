@@ -43,13 +43,12 @@ Additional boards may be supported in the future as the repository grows.
 Below is the current list of included mini-projects.  
 Each folder contains its own code, documentation, and example usage.
 
-| Project Name       | Folder Name        | Description                                                  |
-|--------------------|--------------------|--------------------------------------------------------------|
-| WiFi Tools         | `wifi`             | WiFi scanner, network info, pings, diagnostics, utilities    |
-| Bluetooth Project  | `bluetooth`        | Basic Bluetooth functionality and communication examples     |
+| Project Name         | Folder Name         | Description                                                        |
+|----------------------|----------------------|--------------------------------------------------------------------|
+| WiFi Tools           | `wifi`               | WiFi scanner, network info, pings, diagnostics, utilities          |
+| Bluetooth Project    | `bluetooth`          | Basic Bluetooth functionality and communication examples           |
+| Web File Manager     | `web-file-manager`   | Local web server for uploading, downloading, and managing SPIFFS   |
 
 (This table will grow as new projects are added.)
 
 ---
-
-

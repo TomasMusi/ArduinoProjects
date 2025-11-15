@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # ArduinoProjects
 
 **ArduinoProjects** is a collection of small, focused Arduino-based programs demonstrating various hardware and software concepts.  
